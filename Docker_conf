@@ -1,0 +1,3 @@
+FROM scratch
+ADD my_service /
+CMD ["/my_service"]
