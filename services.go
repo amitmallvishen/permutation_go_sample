@@ -1,5 +1,3 @@
-# permutation_go_sample
-
 package main
 
 import (
@@ -10,7 +8,7 @@ import (
 //    "container/list"
 )
 
-
+var count int=0;
 
 func
 sort( str[] rune, start , end rune )[] rune{
